@@ -15,6 +15,8 @@ Designed for multi-server setups — the bot connects your main Discord server w
 - 🎧 **Join Call Button** – Users can request and receive temporary voice call invites directly in DMs.
 - 📢 **Notify Staff Button** – Users can alert support staff for urgent help.  
 
+<img width="514" height="45" alt="image" src="https://github.com/user-attachments/assets/3e767747-a7b1-4c5b-8a06-fdb0b7d7c59a" />
+
 ---
 
 ## 🛠️ Tech Stack
@@ -52,11 +54,15 @@ A text transcript is automatically generated.
 The transcript is uploaded to your configured transcripts channel.
 Messages and attachments are logged in chronological order.
 
+<img width="275" height="311" alt="image" src="https://github.com/user-attachments/assets/4dc7db6e-fa2c-4c12-87a3-921760fd1206" />
+
 🤖 Example Workflow
 A user types !ticket in your main server.
 A private ticket channel is created in your support guild.
 Messages between the user’s DM and the staff channel are synced in real time.
 Staff can claim, close, and log tickets seamlessly.
+
+<img width="285" height="248" alt="image" src="https://github.com/user-attachments/assets/5519676a-0670-4169-8d5c-89a43149a3bb" />
 
 🧩 Future Improvements
 Persistent database for ticket logs

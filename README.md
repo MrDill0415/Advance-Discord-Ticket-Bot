@@ -40,6 +40,7 @@ Designed for multi-server setups — the bot connects your main Discord server w
 3.Edit configuration constants in bot.py
   Replace the *_ID values with your own Discord server, channel, and role IDs.
 (These control where tickets are created, where transcripts are sent, and which roles have staff permissions.)
+   THERE WILL BE # NEXT TO EVERYTHING YOU NEED TO REPLACE
 
 4.Run The Bot
   python bot.py

@@ -35,12 +35,12 @@ Designed for multi-server setups — the bot connects your main Discord server w
    cd Advance-Discord-Ticket-Bot
    
 2.Install dependencies
-  pip install -r requirements.txt
+pip install -r requirements.txt
   
 3.Edit configuration constants in bot.py
-  Replace the *_ID values with your own Discord server, channel, and role IDs.
-(These control where tickets are created, where transcripts are sent, and which roles have staff permissions.)
-   THERE WILL BE # NEXT TO EVERYTHING YOU NEED TO REPLACE
+ Replace the *_ID values with your own Discord server, channel, and role IDs.
+ (These control where tickets are created, where transcripts are sent, and which roles have staff permissions.)
+ THERE WILL BE # NEXT TO EVERYTHING YOU NEED TO REPLACE
 
 4.Run The Bot
   python bot.py

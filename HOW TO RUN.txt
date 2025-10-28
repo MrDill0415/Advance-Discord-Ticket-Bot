@@ -1,0 +1,5 @@
+open cmd by typing cmd in the folder directory
+
+than type "python bot.py" to run it
+
+For website go to http://localhost:8000/ while bot is running
